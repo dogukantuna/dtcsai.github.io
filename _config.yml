@@ -1,7 +1,7 @@
 locale                   : "en-US"
 title                    : "Doğukan Tuna"
 title_separator          : "-"
-name                     : &name "Doğukan Tuna"
+name                     : &name "About Me"
 description              : &description "AI researcher hacking simulation through the lens of AI computing."
 url                      : https://dtcsai.github.io
 baseurl                  : ""
