@@ -16,7 +16,7 @@ I would like to start this year with this eruditely quote, what a lovely quote. 
 
 Here are the resolutions for v22!
 
-From now on, I'm planning to use my blog for my AI research in the great majority. My AI study interest lies at the interface between fine-grained AI computing, neural network architectures, computational imaging where I develop new approaches for testing theoretical issues & paradigms. Except this, I'm also planning to share YouTube videos, introductory blog posts here.
+From now on, I'm planning to use my blog for my AI research in the great majority. My AI study interest lies at the interface between fine-grained AI computing, neural network architectures, computational imaging where I develop new approaches for testing theoretical issues & paradigms. Except this, I'm also planning to share YouTube videos, introductory blog posts here. I hope I can make AI more accessible to people.
 
 *"Why?"*
 
