@@ -123,9 +123,9 @@
 
 .author__bio {
   margin: 0;
-  text-align: justify;
 
   @include breakpoint($large) {
+    text-align: justify;
     margin-top: 10px;
     margin-bottom: 20px;
   }
