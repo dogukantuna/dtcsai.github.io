@@ -2,7 +2,7 @@ locale                   : "en-US"
 title                    : "Doğukan Tuna"
 title_separator          : "-"
 name                     : &name "Doğukan Tuna"
-description              : &description "AI researcher hacking simulation through the lens of AI computing."
+description              : &description "AI researcher hacking simulation through the lens of AI systems."
 url                      : https://dtcsai.github.io
 baseurl                  : ""
 repository               : "dtcsai/dtcsai.github.io"
@@ -74,13 +74,13 @@ analytics:
 author:
   name             : "Doğukan Tuna"
   avatar           : "profile.jpg"
-  bio              : "AI researcher hacking simulation through the lens of AI computing. Neural networks, computational imaging, compute technologies, and a few other topics."
+  bio              : "AI researcher hacking simulation through the lens of AI systems. Neural networks, computational imaging, compute/platform infrastructure, and a few other topics."
   location         : "Istanbul/Turkey"
   employer         : "Trendyol"
   pubmed           :
   googlescholar    :
   email            : "me@dogukantuna.com"
-  researchgate     :  # example: "https://www.researchgate.net/profile/yourprofile"
+  researchgate     :
   uri              :
   bitbucket        :
   codepen          :
